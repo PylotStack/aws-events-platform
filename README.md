@@ -1,1 +1,1 @@
-# aws-events-platform
+# @sctrl/aws-events-platform
